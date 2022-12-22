@@ -1,1 +1,8 @@
-
+<bug_report>
+  <id> 1 </id>
+  <title>Instagram not opening in [Feedback] Social network </title>
+  <Environment> Samsung M11 Android 10 </Environment>
+  <Steps> 1. Open the app 2. Tap Menu 3. Tap [Feedback] 4. Tap in Social network Instagram </Steps>
+  <Actual_Result> Instagram does not open </Actual_Result>
+  <Expected Result> Instagram opens </Expected Result>
+</bug_report> 
